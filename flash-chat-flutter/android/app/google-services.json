@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "780354761800",
+    "firebase_url": "https://flash-chat-27f34.firebaseio.com",
+    "project_id": "flash-chat-27f34",
+    "storage_bucket": "flash-chat-27f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780354761800:android:7ed326115f4365bb5d547d",
+        "android_client_info": {
+          "package_name": "co.marcelcruz.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780354761800-qr4e5duvhnaaate770s7vd2u54dkns2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh-3BH9QxvbdY885c_65Qfe_pK689Gn0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780354761800-qr4e5duvhnaaate770s7vd2u54dkns2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780354761800:android:1cb17fa8e0a6a0175d547d",
+        "android_client_info": {
+          "package_name": "co.marcelcruz.flash_chat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780354761800-qr4e5duvhnaaate770s7vd2u54dkns2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh-3BH9QxvbdY885c_65Qfe_pK689Gn0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780354761800-qr4e5duvhnaaate770s7vd2u54dkns2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
